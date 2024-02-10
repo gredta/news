@@ -1,4 +1,4 @@
-let latestNewsAPI = "https://newsapi.org/v2/top-headlines?country=us&apiKey=b42fd241496d43b2a80d968624becb6d";
+let latestNewsAPI = "https://gredta.github.io/data.json";
 let categoryNewsAPI = "https://newsapi.org/v2/top-headlines?country=us&category=";
 
 let data = [];
