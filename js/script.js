@@ -1,4 +1,4 @@
-let latestNewsAPI = "https://gredta.github.io/data.json";
+let latestNewsAPI = "https://gredta.github.io/news/data.json";
 let categoryNewsAPI = "https://newsapi.org/v2/top-headlines?country=us&category=";
 
 let data = [];
