@@ -182,7 +182,7 @@ function insertSectionNews(data, categoryNme) {
     
     let cardDescription = document.createElement("p");
     cardDescription.classList.add("card-description");
-    cardDescription.textContent = data.results[0].description.substring(0, 400) + "...";
+    cardDescription.textContent = data.results[0].description;
     metaDiv.appendChild(cardDescription);
 
     let cardDate = document.createElement("p");
