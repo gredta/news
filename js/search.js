@@ -36,7 +36,7 @@ navSearchBox.addEventListener("submit", (e) => {
 
 
 let newsQuery = document.querySelectorAll("#newsQuery");
-const apiKey = "pub_4119739bf8e981fb54e3a8b9d909f78afb81a";
+const apiKey = "pub_4118503fac05e226dc04a561a28fa00db1563";
 const searchAPI = "https://newsdata.io/api/1/news?everything?q=";
 
 function insertSearchResults(data, currentList) {
